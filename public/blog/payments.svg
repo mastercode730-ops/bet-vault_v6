@@ -1,0 +1,26 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EEF5FC"/>
+      <stop offset="100%" stop-color="#CFE4F7"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <ellipse cx="400" cy="400" rx="340" ry="60" fill="#A9CBEA" opacity="0.4"/>
+  <circle cx="150" cy="100" r="46" fill="#ffffff" opacity="0.55"/>
+  <circle cx="660" cy="340" r="34" fill="#ffffff" opacity="0.5"/>
+
+  <g transform="translate(290,140)">
+    <rect x="0" y="30" width="220" height="150" rx="22" fill="#2563A8"/>
+    <path d="M30 30 V0 H190 V30" stroke="#2563A8" stroke-width="14" fill="none"/>
+    <circle cx="165" cy="105" r="10" fill="#C7972C"/>
+  </g>
+
+  <g transform="translate(560,220)">
+    <circle cx="0" cy="0" r="44" fill="#C7972C"/>
+    <text x="0" y="10" font-family="Arial, sans-serif" font-weight="900" font-size="34" fill="#fff" text-anchor="middle">₹</text>
+  </g>
+
+  <path d="M240 250 Q210 280 245 320" stroke="#2563A8" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <circle cx="480" cy="330" r="6" fill="#2563A8" opacity="0.5"/>
+</svg>
