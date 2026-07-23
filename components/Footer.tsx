@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import Image from 'next/image';
 import { waLink } from '@/lib/whatsapp';
 
@@ -132,6 +133,10 @@ export default function Footer() {
           <div className="text-center text-xs" style={{ color: 'var(--muted)' }}>
             <p>© {new Date().getFullYear()} Bet Vault. All rights reserved.</p>
             <p className="mt-1 flex flex-wrap justify-center gap-x-3 gap-y-1">
+              <a href="/sitemap.xml" target="_blank" rel="noopener noreferrer" className="hover:opacity-70 transition-opacity">Sitemap</a>
+              <span>·</span>
+              <a href="/robots.txt" target="_blank" rel="noopener noreferrer" className="hover:opacity-70 transition-opacity">Robots.txt</a>
+              <span>·</span>
               <a href={whatsappUrl} className="hover:opacity-70 transition-opacity">Privacy Policy</a>
               <span>·</span>
               <a href={whatsappUrl} className="hover:opacity-70 transition-opacity">Terms &amp; Conditions</a>
