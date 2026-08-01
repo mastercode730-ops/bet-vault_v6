@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     shortcut: '/favicon.png',
     apple: '/apple-icon.png',
   },
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://betvault.in'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://betvault365.com'),
   title: "Bet Vault — Cricket Betting IDs, the Easy Way",
   description: "Message us on WhatsApp and your Bet Vault ID is ready in minutes. Cricket, football, casino — one login, real people behind it.",
   keywords: "cricket betting ID, IPL betting ID, online betting ID India, Bet Vault",
