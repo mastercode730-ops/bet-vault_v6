@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { waLink } from '@/lib/whatsapp';
 
 const faqs = [
+<<<<<<< HEAD
   { q: 'Is this actually legal for me to use?', a: "Laws vary by state in India, and it's genuinely confusing. We operate under international licensing like most platforms in this space — check your local rules, and play responsibly either way." },
   { q: 'How fast is fast, really?', a: 'Most people have a working ID within five to ten minutes of their first message. Never a multi-day wait, though we won\'t promise instant if we\'re mid-conversation with someone else.' },
   { q: 'Can one ID cover more than cricket?', a: 'Yes — depending on setup, your ID opens football, casino games, and more, all through the same login.' },
@@ -16,6 +17,18 @@ const faqs = [
   { q: 'And withdrawals?', a: "Same channels as deposits. Once your account is verified, payouts move quickly — we don't sit on your winnings." },
   { q: 'I forgot my password. Now what?', a: "Message us on WhatsApp. We verify it's actually you, then help reset or recover the account — usually within minutes." },
   { q: 'What are the actual rules I should know?', a: "You need to be 18 or older. One account per person. All placed bets are final. And only bet what you're fine losing — we mean that one seriously." },
+=======
+  { q: "What is BetVault?", a: "BetVault is the brand or website referenced on this domain. Check the site's current pages and terms for the latest information." },
+  { q: "How does a BetVault ID work?", a: "An account ID is generally used to identify a user account. Refer to BetVault's current account instructions and terms for the exact process." },
+  { q: "How can I access BetVault?", a: "Use the site's current official URL and verify the domain before entering any account information. Follow the access instructions published on the site." },
+  { q: "What sports are available on BetVault?", a: "Available sports can change. Check the current sports or betting section on the website for the latest list and availability." },
+  { q: "Does BetVault provide live sports information?", a: "Check the site's current sports section for any live-event information and the terms that apply to its use." },
+  { q: "How can I get help with my BetVault account?", a: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts." },
+  { q: "How do I find BetVault login information?", a: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel." },
+  { q: "What payment options are supported?", a: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts." },
+  { q: "What should I do if I have trouble accessing my account?", a: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel." },
+  { q: "Where can I find the latest BetVault updates?", a: "Refer to BetVault's current website information and terms for the most accurate answer." }
+>>>>>>> 5eb10f42feaf54e87465cc5c64e72b3a44b454db
 ];
 
 export default function FAQ() {
