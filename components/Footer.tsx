@@ -49,7 +49,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-sm leading-relaxed max-w-xs" style={{ color: 'var(--muted)' }}>
-              A small team that sets up cricket betting IDs over WhatsApp, by hand, usually before
+              A small team that sets up cricket IDs over WhatsApp, by hand, usually before
               your tea gets cold.
             </p>
           </div>

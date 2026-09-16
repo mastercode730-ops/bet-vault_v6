@@ -4,12 +4,12 @@ import { useState } from 'react';
 import { waLink } from '@/lib/whatsapp';
 
 const faqs = [
-  { q: 'Is this actually legal for me to use?', a: "Betting laws vary by state in India, and it's genuinely confusing. We operate under international licensing like most platforms in this space — check your local rules, and bet responsibly either way." },
+  { q: 'Is this actually legal for me to use?', a: "Laws vary by state in India, and it's genuinely confusing. We operate under international licensing like most platforms in this space — check your local rules, and play responsibly either way." },
   { q: 'How fast is fast, really?', a: 'Most people have a working ID within five to ten minutes of their first message. Never a multi-day wait, though we won\'t promise instant if we\'re mid-conversation with someone else.' },
   { q: 'Can one ID cover more than cricket?', a: 'Yes — depending on setup, your ID opens football, casino games, and more, all through the same login.' },
   { q: 'Is my money actually safe here?', a: 'We work only with platforms using bank-level encryption and established payment gateways. Deposits are near-instant, withdrawals go through the same rails without artificial delays.' },
   { q: 'Which tournaments can I bet on?', a: "IPL, T20 World Cup, ODI series, Test matches, The Ashes, county cricket — if it's cricket and it's happening, it's on the board." },
-  { q: 'What is Bet Vault, in one sentence?', a: 'A small team that sets up cricket betting IDs by hand over WhatsApp, instead of a form and a wait.' },
+  { q: 'What is Bet Vault, in one sentence?', a: 'A small team that sets up cricket IDs by hand over WhatsApp, instead of a form and a wait.' },
   { q: 'How do I actually sign up?', a: 'Message us. Share your name and a couple of details, and we handle the rest — no online forms, no email verification wait.' },
   { q: 'Why do I need an ID at all?', a: "It's your key in — logging in, placing bets, tracking what you've won, claiming bonuses, all from one place." },
   { q: 'How do deposits work?', a: 'Log in, head to deposits, pick UPI, net banking, or a wallet, enter the amount, confirm. Funds usually show up almost immediately.' },

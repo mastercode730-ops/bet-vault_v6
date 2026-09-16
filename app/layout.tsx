@@ -8,14 +8,14 @@ export const metadata: Metadata = {
     apple: '/apple-icon.png',
   },
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://betvault365.com'),
-  title: "BetVault | Online Cricket Betting, Sports Betting & Casino",
+  title: "BetVault | Online Cricket, Sports & Casino",
   description: "Message us on WhatsApp and your Bet Vault ID is ready in minutes. Cricket, football, casino — one login, real people behind it.",
-  keywords: "cricket betting ID, IPL betting ID, online betting ID India, Bet Vault",
+  keywords: "cricket ID, IPL ID, online ID India, Bet Vault",
   verification: {
     google: "kkjrwNpfGLx-45NwfSg7RM25bqaIiBZdty-ibcAkTbc",
   },
   openGraph: {
-    title: "BetVault | Online Cricket Betting, Sports Betting & Casino",
+    title: "BetVault | Online Cricket, Sports & Casino",
     description: "Message us on WhatsApp and your ID is ready in minutes.",
     type: "website",
   },

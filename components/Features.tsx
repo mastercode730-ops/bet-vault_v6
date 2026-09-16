@@ -4,7 +4,7 @@ const points = [
   { title: 'UPI in, UPI out', desc: 'No mysterious "processing" that somehow takes three days.', icon: 'wallet' },
   { title: 'Honest bonus terms', desc: 'The welcome bonus conditions fit in one message, not a legal document.', icon: 'gift' },
   { title: 'One ID, every market', desc: 'Cricket, football, casino — same login, every time.', icon: 'grid' },
-  { title: "We're upfront about risk", desc: "Betting isn't a plan for rent money, and we'll say that plainly, always.", icon: 'shield' },
+  { title: "We're upfront about risk", desc: "This isn't a plan for rent money, and we'll say that plainly, always.", icon: 'shield' },
 ];
 
 export default function Features() {
@@ -19,7 +19,7 @@ export default function Features() {
             Nothing revolutionary. Just done properly.
           </h2>
           <p className="text-sm sm:text-base leading-relaxed" style={{ color: 'var(--muted)' }}>
-            We didn't reinvent online betting — we just got tired of platforms making simple things difficult.
+            We didn't reinvent the wheel — we just got tired of platforms making simple things difficult.
           </p>
         </div>
 

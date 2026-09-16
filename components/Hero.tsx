@@ -7,7 +7,7 @@ const stats = [
 ];
 
 export default function Hero() {
-  const whatsappUrl = waLink("Hey Bet Vault, I'd like to get my betting ID set up.");
+  const whatsappUrl = waLink("Hey Bet Vault, I'd like to get my ID set up.");
 
   return (
     <section id="hero" className="section-white relative pt-28 pb-16 sm:pt-40 sm:pb-24 overflow-hidden">
@@ -24,7 +24,7 @@ export default function Hero() {
         </div>
 
         <h1 className="display mb-6 max-w-3xl" style={{ color: 'var(--ink)', fontSize: 'clamp(2.2rem, 6vw, 4.2rem)', lineHeight: 1.05 }}>
-          Cricket betting, made as easy as{' '}
+          Cricket, made as easy as{' '}
           <span className="gold-text">sending a text.</span>
         </h1>
 
