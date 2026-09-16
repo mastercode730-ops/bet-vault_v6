@@ -21,7 +21,7 @@ const faqs = [
   { q: "What is BetVault?", a: "BetVault is the brand or website referenced on this domain. Check the site's current pages and terms for the latest information." },
   { q: "How does a BetVault ID work?", a: "An account ID is generally used to identify a user account. Refer to BetVault's current account instructions and terms for the exact process." },
   { q: "How can I access BetVault?", a: "Use the site's current official URL and verify the domain before entering any account information. Follow the access instructions published on the site." },
-  { q: "What sports are available on BetVault?", a: "Available sports can change. Check the current sports or betting section on the website for the latest list and availability." },
+  { q: "What sports are available on BetVault?", a: "Available sports can change. Check the current sports section on the website for the latest list and availability." },
   { q: "Does BetVault provide live sports information?", a: "Check the site's current sports section for any live-event information and the terms that apply to its use." },
   { q: "How can I get help with my BetVault account?", a: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts." },
   { q: "How do I find BetVault login information?", a: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel." },
